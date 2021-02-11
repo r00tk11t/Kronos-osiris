@@ -1,7 +1,7 @@
 ## Osiris Tactical+ Intelligence Report
 
 ### Analyst Checklist
-![Checklist](https://github.com/r00tk11t/Kronos-osiris/tree/main/img/img/1.PNG)
+![Checklist](https://github.com/r00tk11t/Kronos-osiris/tree/main/img/img/1.PNG "logo")
 
 ## Identification
 
