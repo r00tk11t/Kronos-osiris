@@ -1,6 +1,7 @@
 ## Osiris Tactical+ Intelligence Report
 
 ### Analyst Checklist
+<img src="img/1.PNG">
 ![Checklist](img/1.PNG)
 
 ## Identification
